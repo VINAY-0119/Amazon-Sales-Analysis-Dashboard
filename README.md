@@ -1,4 +1,12 @@
-<img width="762" height="422" alt="Screenshot 2025-10-30 202202" src="https://github.com/user-attachments/assets/d5445301-d512-4ea3-8166-ff85a93a7783" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d5445301-d512-4ea3-8166-ff85a93a7783" width="800" title="Amazon Sales Analysis Dashboard">
+</p>
+
+<h3 align="center">Amazon Products Sales Analysis Dashboard</h3>
+
+<p align="center">
+  A comprehensive Power BI dashboard analyzing year-to-date (YTD) sales performance, category trends, and customer reviews.
+</p>
 
 ---
 
