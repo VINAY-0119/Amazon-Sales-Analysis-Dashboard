@@ -1,6 +1,4 @@
 <img width="762" height="422" alt="Screenshot 2025-10-30 202202" src="https://github.com/user-attachments/assets/d5445301-d512-4ea3-8166-ff85a93a7783" />
-<img width="767" height="411" alt="Screenshot 2025-10-30 202058" src="https://github.com/user-attachments/assets/7f46afff-dca0-4860-9041-bfde58f3b544" />
-<img width="752" height="400" alt="Screenshot 2025-10-30 201912" src="https://github.com/user-attachments/assets/d9b7ac6a-28f0-4be7-bcb5-8544dce67e64" />
 
 ---
 
