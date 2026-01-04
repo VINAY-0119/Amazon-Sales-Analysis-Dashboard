@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="power%20bi.png" alt="Sales Analysis Dashboard" width="800">
+   <img src="Amazon%power%20bi.png" alt="Sales Analysis Dashboard" width="800">
 </p>
 
 ---
