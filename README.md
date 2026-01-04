@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5445301-d512-4ea3-8166-ff85a93a7783" width="900" alt="Sales Analysis Dashboard">
+  <img src="power%20bi.png" alt="Sales Analysis Dashboard" width="800">
 </p>
 
 ---
