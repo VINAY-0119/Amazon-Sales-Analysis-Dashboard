@@ -1,7 +1,6 @@
 <p align="center">
-   <img src="Amazon%power%20bi.png" alt="Sales Analysis Dashboard" width="800">
+  <img src="Amazon%20Power%20Bi.png" alt="Amazon Sales Analysis" width="800">
 </p>
-
 ---
 
 ## 📋 Project Overview
